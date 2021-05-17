@@ -1,0 +1,15 @@
+a = sfml lib
+
+z = sdl lib
+
+e = ncurses lib
+
+q = pacman
+
+s = snake
+
+escape = menu
+
+backspace = exit
+
+space = resume

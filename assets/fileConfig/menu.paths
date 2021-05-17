@@ -1,0 +1,8 @@
+assets/fileMap/menu/pacman.map
+assets/fileMap/menu/snake.map
+assets/fileMap/menu/sfml.map
+assets/fileMap/menu/sdl.map
+assets/fileMap/menu/ncurses.map
+assets/fileMap/menu/exit.map
+assets/fileMap/menu/borabora.map
+assets/fileConfig/menu.config

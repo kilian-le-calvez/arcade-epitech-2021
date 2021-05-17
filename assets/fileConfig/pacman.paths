@@ -1,0 +1,5 @@
+assets/fileMap/pacman/static.map
+assets/fileMap/pacman/dynamic.map
+assets/fileMap/pacman/consumable.map
+assets/fileMap/pacman/menu.map
+assets/fileConfig/pacman.config
