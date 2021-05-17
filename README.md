@@ -3,4 +3,4 @@ Création de bibliothèques dynamiques en C++ (3 libs de display + 2 jeux et 1 m
 
 Utilisation :
 (dans le root) : make
-(dans le root) : ./arcade lib/arcade_[sfml || sdl || ncurses].so
+(puis) ./arcade lib/arcade_[sfml || sdl || ncurses].so
